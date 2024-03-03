@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Trye1243/crossedCrossing/issues"
   },
-  "homepage": "https://github.com/Trye1243/crossedCrossing#readme"
+  "homepage": "https://github.com/Trye1243/crossedCrossing#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
 }
